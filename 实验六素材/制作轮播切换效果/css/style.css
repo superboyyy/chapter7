@@ -40,7 +40,7 @@ ul li {
 .arrowRight {
 	position: absolute;
 	width: 30px;
-	background: rgba(0, 0, 0, 0.2);
+	background: rgba(0,0,0,0.2);
 	height: 50px;
 	line-height: 50px;
 	text-align: center;
@@ -51,6 +51,7 @@ ul li {
 	font-weight: bold;
 	cursor: pointer;
 	display: none;
+	color: white;
 }
 
 .arrowLeft {
